@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0,0]
+      }
+  ]
+}
